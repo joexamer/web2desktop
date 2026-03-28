@@ -80,4 +80,4 @@ Feel free to open issues or submit pull requests to help improve the tool!
 
 ## 📜 License
 
-MIT License - feel free to use it for your own projects!
+ GNU GENERAL PUBLIC LICENSE - feel free to use it for your own projects!
